@@ -1,4 +1,3 @@
-name,age,course
-Aswini,23,B.Tech
-Rahul,24,B.Tech
-Priya,22,BCA
+Name=Aswini
+age=22
+course=B.tech

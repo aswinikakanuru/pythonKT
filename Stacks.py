@@ -9,7 +9,7 @@ stack.append("sql")
 print(stack)
 print(len(stack))
 print(stack[-1])
-print(stack.pop())
+print(stack.pop()) #Last in first out
 print(stack)
 for skills in stack:
     print(skills)
